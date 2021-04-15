@@ -16,6 +16,8 @@ I'm JavaScript developer and QC Automation engineer passionate about programming
 <img align="left" alt="Carlos Quevedo LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
+<br />
+
 ## What i'm up to
 
 - 🔭 Im currently working as QC Automation engineer @ [Elemento43](https://elemento43.com/).
