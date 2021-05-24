@@ -1,5 +1,5 @@
 ## Hi 👋 This is Carlos!
-I'm JavaScript developer and Test Automation engineer passionate about programming.
+I'm Systems engineer and a passionate Web developer.
 
 <meta property="og:title" content="Carlos Quevedo's Github Profile" />
 <meta property="og:type" content="website" />
@@ -20,9 +20,8 @@ I'm JavaScript developer and Test Automation engineer passionate about programmi
 
 ## What i'm up to
 
-- 🔭 Im currently working as Test Automation engineer @ [Elemento43](https://elemento43.com/).
-- 🌱 I am currently delving into React
-- 💬 Sharing JavaScript tips in my [Twitter](https://twitter.com/_cquevedod)
+- 🔭 Im currently working as Web UI Developer @ [Globant](https://www.globant.com/).
+- 🌱 I am currently deeping into React
 
 <br />
 
