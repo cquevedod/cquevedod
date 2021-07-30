@@ -33,6 +33,6 @@ I'm Systems engineer and a passionate Web developer.
 
 ---
 
-![Carlos github stats](https://github-readme-stats.vercel.app/api?username=cquevedod&&show_icons=true&hide_border=true)
+![Carlos github stats](https://github-readme-stats.vercel.app/api?username=cquevedod&&hide=contribs&show_icons=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cquevedod&layout=compact)
